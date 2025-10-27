@@ -1,0 +1,19 @@
+# Organization-wide funding links for Grupa Ratownictwa PCK Poznań
+# Place this file at: .github/FUNDING.yml  (in your org-level ".github" repo)
+
+# If you ever enable GitHub Sponsors for the org, put your handle(s) here:
+# github: [Grupa-Ratownictwa-PCK-Poznan]
+
+# Other platform handles (fill in later if you open accounts):
+# patreon:            # e.g. your-patreon
+# open_collective:    # e.g. your-collective
+# ko_fi:              # e.g. your-kofi
+# liberapay:          # e.g. your-liberapay
+# polar:              # e.g. your-polar
+# buy_me_a_coffee:    # e.g. your-bmac
+
+# Up to 4 custom links appear under the Sponsor button.
+# We’ll use your official “Wesprzyj nas” page and your active Zrzutka:
+custom:
+  - https://grpckpoznan.pl/wesprzyj-nas/
+  - https://zrzutka.pl/ufwfy4/pay
