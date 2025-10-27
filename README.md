@@ -11,6 +11,6 @@ Open-source tooling from **Grupa Ratownictwa PCK Poznań** to help Search & Resc
 Grupa Ratownictwa Polskiego Czerwonego Krzyża w Poznaniu is a volunteer rescue unit within the national PCK Rescue System, active since **2006** and collaborating with public services. We support alarm deployments (via official services), trainings, and community resilience initiatives in Poznań and Greater Poland.
 
 - General contact: **gr.poznan@pck.pl**  
-- For institutions (dispatch/ops): **+48 737 333 794** (alarm line via services)  
+- For institutions (dispatch/ops): **+48 737 333 794** (24/7/365 alarm line)  
 - More about us: https://grpckpoznan.pl/
 - We are volunteers and ask your financial support: https://zrzutka.pl/ufwfy4
